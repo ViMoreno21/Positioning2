@@ -1,0 +1,35 @@
+div {
+	display: inline-block;
+	border: 3px green;
+	width: 500px;
+	height: 500px;
+
+
+}
+
+.primero {
+
+	background-color: red;
+	width: 300px;
+	height: 300px;
+
+}
+
+.segundo {
+
+	background-color: purple;
+	width: 150px;
+	height: 150px;
+	position: relative;
+	left: 75px;
+	bottom: -70px;
+
+}
+
+.tercero {
+
+	background-color: yellow;
+	width: 80px;
+	height: 80px;
+
+}
